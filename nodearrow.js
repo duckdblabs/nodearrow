@@ -1,1 +1,1 @@
-module.exports = require('./lib/duckdb');
+module.exports = require('./lib/nodearrow');
